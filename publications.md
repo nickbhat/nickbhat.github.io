@@ -17,8 +17,7 @@ A list of publications is also available through
     [Necrotizing enterocolitis is preceded by increased gut bacterial replication, Klebsiella, and fimbriae-encoding bacteria that may stimulate TLR4 receptors.](https://www.biorxiv.org/content/10.1101/558676v1.abstract)
     bioRxiv preprint.
 
-3.  Moreno-Mayar, J. V.\*, Vinner, L.\*, de Barros Damgaard, P.\*, de la Fuente C.\*,
-    Chan, J.\*, __Spence, J. P.__\*, _et al._ 
+3.  Khanh Dao Duc, Sanjit S. Batra, __Nicholas Bhattacharya__, Jamie H. D. Cate, Yun S. Song
     [Differences in the path to exit the ribosome across the three domains of life.](https://dx.doi.org/10.1093%2Fnar%2Fgkz106)
     _Nucleic acids research_ 47, no. 8 (2019)
 

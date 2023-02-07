@@ -19,7 +19,6 @@ email: nick_bhat@berkeley.edu
 #   Personal webpage of Nick Bhattacharya
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: nicholas_bhat
 github_username:  nickbhat
 
 # Build settings

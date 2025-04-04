@@ -6,4 +6,4 @@ I got a PhD at UC Berkeley in Mathematics, advised by [Yun S. Song](https://peop
 
 ![facephoto](/assets/facephoto.jpg)
 
-You can reach me at nick_bhat _at_ berkeley _dot_ edu
+You can reach me at nick.bhat _at_ gmail _dot_ com
